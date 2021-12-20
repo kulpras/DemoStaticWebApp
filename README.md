@@ -1,0 +1,2 @@
+# DemoStaticWebApp
+DemoStaticWebApp
